@@ -1,0 +1,16 @@
+C:\Users\dimas\OneDrive\Documents\Semester 5\PBKK\Calculactor\bin\Debug\net7.0-windows\Calculactor.exe
+C:\Users\dimas\OneDrive\Documents\Semester 5\PBKK\Calculactor\bin\Debug\net7.0-windows\Calculactor.deps.json
+C:\Users\dimas\OneDrive\Documents\Semester 5\PBKK\Calculactor\bin\Debug\net7.0-windows\Calculactor.runtimeconfig.json
+C:\Users\dimas\OneDrive\Documents\Semester 5\PBKK\Calculactor\bin\Debug\net7.0-windows\Calculactor.dll
+C:\Users\dimas\OneDrive\Documents\Semester 5\PBKK\Calculactor\bin\Debug\net7.0-windows\Calculactor.pdb
+C:\Users\dimas\OneDrive\Documents\Semester 5\PBKK\Calculactor\obj\Debug\net7.0-windows\Calculactor.Form1.resources
+C:\Users\dimas\OneDrive\Documents\Semester 5\PBKK\Calculactor\obj\Debug\net7.0-windows\Calculactor.csproj.GenerateResource.cache
+C:\Users\dimas\OneDrive\Documents\Semester 5\PBKK\Calculactor\obj\Debug\net7.0-windows\Calculactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimas\OneDrive\Documents\Semester 5\PBKK\Calculactor\obj\Debug\net7.0-windows\Calculactor.AssemblyInfoInputs.cache
+C:\Users\dimas\OneDrive\Documents\Semester 5\PBKK\Calculactor\obj\Debug\net7.0-windows\Calculactor.AssemblyInfo.cs
+C:\Users\dimas\OneDrive\Documents\Semester 5\PBKK\Calculactor\obj\Debug\net7.0-windows\Calculactor.csproj.CoreCompileInputs.cache
+C:\Users\dimas\OneDrive\Documents\Semester 5\PBKK\Calculactor\obj\Debug\net7.0-windows\Calculactor.dll
+C:\Users\dimas\OneDrive\Documents\Semester 5\PBKK\Calculactor\obj\Debug\net7.0-windows\refint\Calculactor.dll
+C:\Users\dimas\OneDrive\Documents\Semester 5\PBKK\Calculactor\obj\Debug\net7.0-windows\Calculactor.pdb
+C:\Users\dimas\OneDrive\Documents\Semester 5\PBKK\Calculactor\obj\Debug\net7.0-windows\Calculactor.genruntimeconfig.cache
+C:\Users\dimas\OneDrive\Documents\Semester 5\PBKK\Calculactor\obj\Debug\net7.0-windows\ref\Calculactor.dll
